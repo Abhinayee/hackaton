@@ -1,0 +1,17 @@
+#row1{
+    background-color: rgb(59, 139, 252);
+    width: 1120px;
+}
+#col1{
+    background-color: rgba(246, 242, 237, 0.701);
+    height: 600px;
+}
+#col9{
+    word-spacing: 40px;
+}
+#col11{
+    word-spacing: 40px;
+}
+#row2{
+    margin-bottom: 10px;
+}
